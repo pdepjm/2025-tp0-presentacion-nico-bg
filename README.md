@@ -2,7 +2,7 @@
 
 Empecemos con la parte obligatoria: mi nombre es Nicole Bergamin Gache, tengo 22 años, mi numero de legajo es 203.408-6 y abajo les dejo una foto mia:
 
-(Esperen, todavía estoy buscando una!)
+<img src="fotoPresentacionGitHub_hd1.JPG" width="500" height="500">
 
 ## Sobre mi
 
@@ -16,4 +16,8 @@ Hacia rato que tenia ganas de cursar esta materia ya que tengo algunos proyectos
 
 ## Algo más?
 
-Próximamente...
+Tengo dos mascotas, Nina (izq.) y Rozy (der.).
+
+<img src="ninayrozy1.JPG" width="auto" height="300">
+
+Nina cumplió 15 años en enero, y Rozy, su hija, cumple 8 en septiembre ^_^
