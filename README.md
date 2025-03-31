@@ -20,4 +20,4 @@ Tengo dos mascotas, Nina (izq.) y Rozy (der.).
 
 <img src="ninayrozy1.JPG" width="auto" height="300">
 
-Nina cumplió 15 años en enero, y Rozy, su hija, cumple 8 en septiembre ^_^
+Nina cumplió 15 años en enero, y Rozy, su hija, cumple 8 en septiembre ^_^ Por más que son madre e hija, tienen personalidades re distintas. Rozy es recontra faldera y corre a acostarse al lado tuyo cuando te sentás en el sillón, mientras que Nina es mucho más independiente, cuando te quiere te busca y si no se va. Eso sí, es mucho más viva que su hija, Nina no cae en el mismo chiste más de una vez, mientras que a la otra podés hacérselo mil veces que no se va a dar cuenta.
